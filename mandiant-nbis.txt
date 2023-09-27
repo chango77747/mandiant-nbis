@@ -9,7 +9,7 @@
 #
 # This File Date  : September 27, 2023
 # Update Frequency: Daily 
-# Aggregation     : not 
+# Aggregation     : nah 
 # Entries         : 9803
 #
 # Full list analysis, including geolocation map, history,

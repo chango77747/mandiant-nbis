@@ -7,10 +7,10 @@
 # Maintainer      : Evan Pena
 # Start File Date: September 26, 2023
 #
-# This File Date  : January 27, 2024
+# This File Date  : January 28, 2024
 # Update Frequency: Daily 
 # Aggregation     : none
-# Entries         : 160
+# Entries         : 163
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -84,7 +84,6 @@
 154.211.12.126
 154.221.30.136
 45.82.153.200
-39.105.53.172
 45.82.152.187
 1.15.247.249
 159.203.113.25
@@ -173,11 +172,15 @@
 103.27.109.217
 103.27.108.207
 85.206.170.54
+54.37.79.82
+57.128.108.132
+57.128.83.129
+51.83.253.102
+57.128.164.11
+43.136.14.250
+100.1.108.246
 93.115.25.41
 159.89.124.188
 20.205.63.9
 158.160.109.118
 156.241.191.216
-54.37.79.82
-57.128.108.132
-57.128.83.129
